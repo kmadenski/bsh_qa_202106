@@ -1,0 +1,5 @@
+Zadanie polega na ocenie najważniejszych aspektów funkcjonalności filtrów wyszukiwarki 
+w aplikacji wpadaj.pl oraz zaprojektowaniu do nich testu w technologii cypress.
+Wykonanie dowolne. 
+
+Należy wykonać test zarówno dla wersji desktop (1366x625) jak i mobile (360x640).
